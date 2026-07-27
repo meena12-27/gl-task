@@ -1,0 +1,10 @@
+langchain
+langchain-core
+
+langchain-ollama
+langgraph
+streamlit
+#langsmith
+#python-dotenv
+#pandas
+#pydantic

@@ -1,0 +1,18 @@
+[
+  {
+    "incident_id": "INC001",
+    "shipment_id": "SH002",
+    "severity": "High",
+    "description": "Shipment delayed due to highway closure.",
+    "status": "Open",
+    "created_at": "2026-07-24"
+  },
+  {
+    "incident_id": "INC002",
+    "shipment_id": "SH001",
+    "severity": "Low",
+    "description": "Minor route deviation.",
+    "status": "Resolved",
+    "created_at": "2026-07-20"
+  }
+]

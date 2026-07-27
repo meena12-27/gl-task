@@ -1,0 +1,37 @@
+[
+  {
+    "inventory_id": "INV001",
+    "warehouse_id": "WH001",
+    "product_id": "P001",
+    "available_quantity": 120,
+    "reserved_quantity": 20
+  },
+  {
+    "inventory_id": "INV002",
+    "warehouse_id": "WH001",
+    "product_id": "P002",
+    "available_quantity": 300,
+    "reserved_quantity": 50
+  },
+  {
+    "inventory_id": "INV003",
+    "warehouse_id": "WH002",
+    "product_id": "P001",
+    "available_quantity": 80,
+    "reserved_quantity": 10
+  },
+  {
+    "inventory_id": "INV004",
+    "warehouse_id": "WH003",
+    "product_id": "P003",
+    "available_quantity": 450,
+    "reserved_quantity": 40
+  },
+  {
+    "inventory_id": "INV005",
+    "warehouse_id": "WH004",
+    "product_id": "P005",
+    "available_quantity": 25,
+    "reserved_quantity": 5
+  }
+]

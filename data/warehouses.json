@@ -1,0 +1,30 @@
+[
+  {
+    "warehouse_id": "WH001",
+    "city": "Hyderabad",
+    "capacity": 10000,
+    "manager": "Ramesh",
+    "status": "Operational"
+  },
+  {
+    "warehouse_id": "WH002",
+    "city": "Bangalore",
+    "capacity": 12000,
+    "manager": "Suresh",
+    "status": "Operational"
+  },
+  {
+    "warehouse_id": "WH003",
+    "city": "Mumbai",
+    "capacity": 9000,
+    "manager": "Kavitha",
+    "status": "Operational"
+  },
+  {
+    "warehouse_id": "WH004",
+    "city": "Chennai",
+    "capacity": 8000,
+    "manager": "Anil",
+    "status": "Maintenance"
+  }
+]

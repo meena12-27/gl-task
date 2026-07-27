@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": "ORD001",
+    "customer": "Reliance Digital",
+    "shipment_id": "SH001",
+    "product_id": "P001",
+    "quantity": 15,
+    "status": "Pending",
+    "delivery_date": "2026-07-27"
+  },
+  {
+    "order_id": "ORD002",
+    "customer": "Croma",
+    "shipment_id": "SH002",
+    "product_id": "P004",
+    "quantity": 10,
+    "status": "Delayed",
+    "delivery_date": "2026-07-31"
+  },
+  {
+    "order_id": "ORD003",
+    "customer": "Vijay Sales",
+    "shipment_id": "SH003",
+    "product_id": "P005",
+    "quantity": 5,
+    "status": "Delivered",
+    "delivery_date": "2026-07-23"
+  }
+]

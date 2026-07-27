@@ -1,0 +1,42 @@
+[
+  {
+    "shipment_id": "SH001",
+    "supplier_id": "SUP001",
+    "warehouse_id": "WH001",
+    "route_id": "R001",
+    "status": "In Transit",
+    "current_location": "Nagpur",
+    "eta": "2026-07-26",
+    "delay_hours": 0,
+    "products": [
+      "P001",
+      "P002"
+    ]
+  },
+  {
+    "shipment_id": "SH002",
+    "supplier_id": "SUP003",
+    "warehouse_id": "WH003",
+    "route_id": "R003",
+    "status": "Delayed",
+    "current_location": "Indore",
+    "eta": "2026-07-30",
+    "delay_hours": 48,
+    "products": [
+      "P004"
+    ]
+  },
+  {
+    "shipment_id": "SH003",
+    "supplier_id": "SUP005",
+    "warehouse_id": "WH004",
+    "route_id": "R002",
+    "status": "Delivered",
+    "current_location": "Chennai",
+    "eta": "2026-07-22",
+    "delay_hours": 0,
+    "products": [
+      "P005"
+    ]
+  }
+]

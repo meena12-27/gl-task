@@ -1,0 +1,42 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Laptop",
+    "category": "Electronics",
+    "supplier_id": "SUP001",
+    "unit_cost": 50000,
+    "reorder_level": 20
+  },
+  {
+    "product_id": "P002",
+    "name": "Keyboard",
+    "category": "Accessories",
+    "supplier_id": "SUP002",
+    "unit_cost": 1200,
+    "reorder_level": 50
+  },
+  {
+    "product_id": "P003",
+    "name": "Mouse",
+    "category": "Accessories",
+    "supplier_id": "SUP002",
+    "unit_cost": 800,
+    "reorder_level": 40
+  },
+  {
+    "product_id": "P004",
+    "name": "Monitor",
+    "category": "Electronics",
+    "supplier_id": "SUP003",
+    "unit_cost": 15000,
+    "reorder_level": 15
+  },
+  {
+    "product_id": "P005",
+    "name": "Printer",
+    "category": "Office",
+    "supplier_id": "SUP005",
+    "unit_cost": 18000,
+    "reorder_level": 10
+  }
+]

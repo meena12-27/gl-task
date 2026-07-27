@@ -1,0 +1,26 @@
+[
+  {
+    "route_id": "R001",
+    "origin": "Mumbai",
+    "destination": "Hyderabad",
+    "distance_km": 710,
+    "estimated_hours": 15,
+    "status": "Normal"
+  },
+  {
+    "route_id": "R002",
+    "origin": "Bangalore",
+    "destination": "Chennai",
+    "distance_km": 350,
+    "estimated_hours": 7,
+    "status": "Congested"
+  },
+  {
+    "route_id": "R003",
+    "origin": "Delhi",
+    "destination": "Mumbai",
+    "distance_km": 1400,
+    "estimated_hours": 28,
+    "status": "Closed"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "supplier_id": "SUP001",
+    "name": "ABC Electronics",
+    "city": "Hyderabad",
+    "contact": "Rajesh Kumar",
+    "email": "contact@abcelectronics.com",
+    "availability": "Available",
+    "lead_time_days": 3,
+    "rating": 4.8,
+    "cost_level": "Medium"
+  },
+  {
+    "supplier_id": "SUP002",
+    "name": "TechSource Ltd",
+    "city": "Bangalore",
+    "contact": "Priya Sharma",
+    "email": "sales@techsource.com",
+    "availability": "Available",
+    "lead_time_days": 4,
+    "rating": 4.6,
+    "cost_level": "Low"
+  },
+  {
+    "supplier_id": "SUP003",
+    "name": "Global Components",
+    "city": "Mumbai",
+    "contact": "Rahul Verma",
+    "email": "support@globalcomponents.com",
+    "availability": "Unavailable",
+    "lead_time_days": 7,
+    "rating": 4.3,
+    "cost_level": "Medium"
+  },
+  {
+    "supplier_id": "SUP004",
+    "name": "Rapid Supplies",
+    "city": "Chennai",
+    "contact": "Anita Reddy",
+    "email": "sales@rapidsupplies.com",
+    "availability": "Available",
+    "lead_time_days": 2,
+    "rating": 4.9,
+    "cost_level": "High"
+  },
+  {
+    "supplier_id": "SUP005",
+    "name": "Prime Industrial",
+    "city": "Delhi",
+    "contact": "Karan Singh",
+    "email": "info@primeindustrial.com",
+    "availability": "Available",
+    "lead_time_days": 5,
+    "rating": 4.5,
+    "cost_level": "Medium"
+  }
+]
